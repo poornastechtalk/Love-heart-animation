@@ -42,12 +42,6 @@ python love_heart.py
 
 4. Enjoy the animated heart!
 
-## 🎥 Tutorial
-
-Created as part of the creative coding projects from **Poorna's Tech Talk**.
-
-YouTube: Add your tutorial link here.
-
 ## ❤️ Creator
 
 **Poorna's Tech Talk**
